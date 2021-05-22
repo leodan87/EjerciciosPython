@@ -1,0 +1,3 @@
+Esta es una cadena insertada
+Esta es otra cadena insertada
+Esta es otra cadena insertada
